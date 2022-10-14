@@ -1,8 +1,4 @@
-def count_down(number):
-    while number>0:
-        print(number)
-	number -=1
-count_down()
+def count_down(number)
     while number>0 <=10:
 	number -=1
 count_down(10)
